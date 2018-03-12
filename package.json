@@ -1,0 +1,16 @@
+{
+  "name": "react-async-component",
+  "version": "1.0.0",
+  "description": "A component that dynacicly loads other components in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "NPM",
+    "ReactJS"
+  ],
+  "author": "Ilya Abdighni",
+  "license": "ISC"
+}
